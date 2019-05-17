@@ -45,5 +45,5 @@ mvn exec:java
 ### Server Address
 By default, server runs in localhost:8080
 
-### Notes
+### Note
 Please change `server.address` property in `application.properties` file to bootstrap the application on the different port if the default one is occupied.
